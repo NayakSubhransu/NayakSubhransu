@@ -11,7 +11,7 @@ I'm Subhransu Priyaranjan Nayak, a passionate Software developer and ML Engineer
 
 ## 🔧 Skills
 
-- Programming Languages: C , C++ , Java , Python , Javascript , TYPESCRIPT
+- `Programming Languages`: C , C++ , Java , Python , Javascript , TYPESCRIPT
 - Full-Stack Developer : MERN Developer
 - Frontend technologies: HTMl, CSS,SASS, BOOTSTRAP,TAILWIND CSS, JQUERY, MATERIAL UI, 
 - JAVASCRIPT LIBRARIES/FRAMEWORKS: ANIME.JS, SWIPER.JS, LEAFLET, ESLINT,REACT, NEXT.JS, EMBER.JS,GraphQL,
