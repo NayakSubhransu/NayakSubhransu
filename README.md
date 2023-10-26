@@ -14,22 +14,14 @@ Instead of spending all my time in the digital realm, I want to explore new plac
 ## 🎓 Educational Background
 
 - **High School (10th Grade):**
-  - Name of School: Jeevan Jyothi Convent School(ICSE)
-  - Location: koraput,odisha
-  - Year of Completion: 2018
+  - Name of School: Jeevan Jyothi Convent School(ICSE)(2018)
 
 - **Intermediate (12th Grade):**
-  - Name of Institution: Ascent Junior College
-  - Field of Study: Science or Equivalent(MPC)
-  - Location: Visakhapatnam,India
-  - Year of Completion: 2020
+  - Name of Institution: Ascent Junior College(2020)
 
 - **Bachelor's Degree (Engineering):**
-  - Name of University: INDIAN INSTITUTE OF TECHNOLOGY BHUBANESWAR
-  - Degree Pursued: Bachelor of Technology (B.Tech) in Mechanical Engineering 
-  - Location: Bhubaneswar,India
-  - Year of Enrollment: 2021
-  - Expected Year of Graduation: 2026
+  - Name of University: INDIAN INSTITUTE OF TECHNOLOGY BHUBANESWAR(2021- on going)
+
 
 ## 🌱 Areas of Interest
 
