@@ -1,23 +1,30 @@
-# Hey there! 👋
+![image](https://github.com/NayakSubhransu/NayakSubhransu/assets/139241744/2924dbb9-6950-4b59-a287-15899c3d6b9d)# Hey there! 👋
 
-I'm [Your Name], a passionate [Your Profession] from [Your Location]. 🌍
+I'm Subhransu Priyaranjan Nayak, a passionate Software developer and ML Engineer from Bhubaneswar,India. 🌍
 
 ## 🧐 About Me
 
 - 🎓 [Educational Background]
 - 💼 [Current Job or Project]
 - 🌱 [Areas of Interest or Learning]
+-   Exploring New Stuffs over Internet and Web Surfing 
 
 ## 🔧 Skills
 
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
-- [Skill 4]
-
+- Programming Languages: C , C++ , Java , Python , Javascript , TYPESCRIPT
+- Full-Stack Developer : MERN Developer
+- Frontend technologies: HTMl, CSS,SASS, BOOTSTRAP,TAILWIND CSS, JQUERY, MATERIAL UI, 
+- JAVASCRIPT LIBRARIES/FRAMEWORKS: ANIME.JS, SWIPER.JS, LEAFLET, ESLINT,REACT, NEXT.JS, EMBER.JS,GraphQL
+- BACKEND JS TECHNOLOGIES : EXPRESS.JS, NODE.JS
+- DATABASE TECHNOLOGIES:MySQL,MONGODB,, Redis, PostgreSQL
+- BACKEND JAVA TECHNOLOGIES:JDBC API, JavaServer Faces technology(JSF), Java Persistence API(JPA), JavaServer Pages(JSP), Jakarta Servlet,Applet, JavaMail, Java API for XML Processing, Java EE server, Apache Tomcat
+- Data Science Libraries: NUMPY, PANDAS, MATPLOTLIB, SEABORN, PLOTLY, SYMPY
+- COMPUTER VISION LIBRARIES:OPENCV,SCIKIT-IMAGE, SCIPY,Python Imaging Library(PIL)
+- MACHINE LEARNING LIBRARIES: SCIKIT-LEARN,TENSORFLOW, PYTORCH,XGBOOST,LIGHTGBM
+  
 ## 🎯 Courses
 
-- [Course 1](Course 1 Link): Description
+- [](Course 1 Link): Description
 - [Course 2](Course 2 Link): Description
 
 ## 💻 Tech Stack
@@ -35,6 +42,7 @@ I'm [Your Name], a passionate [Your Profession] from [Your Location]. 🌍
 
 - [Email](Your Email Address)
 - [LinkedIn](Your LinkedIn Profile Link)
+- [Portfolio Website]()
 
 Feel free to connect! 🚀
 
