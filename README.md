@@ -2,19 +2,43 @@
 
 I'm Subhransu Priyaranjan Nayak, a passionate Software developer and ML Engineer from Bhubaneswar,India. 🌍
 
+
 ## 🧐 About Me
 
-- 🎓 [Educational Background]
-- 💼 [Current Job or Project]
-- 🌱 [Areas of Interest or Learning]
--   Surfing the Web and the Internet for Novel Experiences
+My journey into the world of mathematics and Computer science began during my early years. I took my first steps into the realm of coding back in 9th grade, igniting a passion that has continued to drive me forward. 
 
+The excitement of discovering new technologies that have the potential to simplify and improve our lives is what keeps me interested outside of the domain of algorithms and programming. My interest in technology and engineering stems from a deep-seated curiosity and motivates me to keep learning and expanding my horizons. 
+
+Instead of spending all my time in the digital realm, I want to explore new places and try new foods whenever I get the chance. Discovering new areas and trying local delicacies is a source of great pleasure and growth for me.
+
+## 🎓 Educational Background
+
+- **High School (10th Grade):**
+  - Name of School: Jeevan Jyothi Convent School(ICSE)
+  - Location: koraput,odisha
+  - Year of Completion: 2018
+
+- **Intermediate (12th Grade):**
+  - Name of Institution: Ascent Junior College
+  - Field of Study: Science or Equivalent(MPC)
+  - Location: Visakhapatnam,India
+  - Year of Completion: 2020
+
+- **Bachelor's Degree (Engineering):**
+  - Name of University: INDIAN INSTITUTE OF TECHNOLOGY BHUBANESWAR
+  - Degree Pursued: Bachelor of Technology (B.Tech) in Mechanical Engineering 
+  - Location: Bhubaneswar,India
+  - Year of Enrollment: 2021
+  - Expected Year of Graduation: 2026
 
 ## 🌱 Areas of Interest
 
-- [Interest 1]
-- [Interest 2]
-- [Interest 3]
+- Contributing to Open-source projects.
+- Exploring the online world and web deep for new experiences.
+- Website and UI Designing.
+- Investigating U-Tube for Educational Content.
+- Aptitude for the enjoyment of working out mathematical Problems.
+- A Passion for and Leaning Towards the Subjects of Computer Science.
 
 
 ## 🔧 Skills
@@ -34,7 +58,7 @@ I'm Subhransu Priyaranjan Nayak, a passionate Software developer and ML Engineer
 - `BACKEND JS TECHNOLOGIES` : Express.js, Node.js
 - `DATABASE TECHNOLOGIE`S: Mysql,MongoDb, Redis, PostgreSql
 - `BACKEND JAVA TECHNOLOGIES`:JDBC API, JavaServer Faces technology(JSF), Java Persistence API(JPA), JavaServer Pages(JSP), Jakarta Servlet,Applet, JavaMail, Java API for XML Processing, Java EE server, Apache Tomcat Server
-- [Technology 3]
+- 'UI AND WEB DESIGN` : Figma, Canva and Adobe
 
   
 ## 🎯 Courses
@@ -61,7 +85,7 @@ I'm Subhransu Priyaranjan Nayak, a passionate Software developer and ML Engineer
 
 ## 📫 How to Reach Me
 
-- [Email](Your Email Address)
+- [Email](subhransunayak726@gmail.com)
 - [LinkedIn](Your LinkedIn Profile Link)
 - [Portfolio Website]()
 
