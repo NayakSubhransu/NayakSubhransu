@@ -25,6 +25,17 @@ I'm Subhransu Priyaranjan Nayak, a passionate Software developer and ML Engineer
 - `COMPUTER VISION LIBRARIES` :OpenCV,Scikit-image, Scipy,Python imaging library(PIL)
 - `MACHINE LEARNING LIBRARIES` : Scikit-learn,Tensorflow, Pytorch,Xgboost,Lightgbm
 
+
+## 💻 Tech Stack
+
+- `FRONTEND TECHNOLOGIES`: Html,Css,Sass,Bootstrap,Tailwind css,Jquery,Material UI, 
+- `JAVASCRIPT LIBRARIES/FRAMEWORKS`: Anime.JS, Swiper.JS, Leaflet, Eslint,React, Next.JS, Ember.JS,Graphql,
+- `STATE-MANAGEMENT LIBRARIES`: Redux, Redux-toolkit, Redux thunk,Recoil , React query
+- `BACKEND JS TECHNOLOGIES` : Express.js, Node.js
+- `DATABASE TECHNOLOGIE`S: Mysql,MongoDb, Redis, PostgreSql
+- `BACKEND JAVA TECHNOLOGIES`:JDBC API, JavaServer Faces technology(JSF), Java Persistence API(JPA), JavaServer Pages(JSP), Jakarta Servlet,Applet, JavaMail, Java API for XML Processing, Java EE server, Apache Tomcat Server
+- [Technology 3]
+
   
 ## 🎯 Courses
 
@@ -42,16 +53,6 @@ I'm Subhransu Priyaranjan Nayak, a passionate Software developer and ML Engineer
 - [Experience 1](Experience 1 Link): Brief description
 - [Experience 2](Experience 2 Link): Brief description
 
-
-## 💻 Tech Stack
-
-- `FRONTEND TECHNOLOGIES`: HTMl, CSS,SASS, BOOTSTRAP,TAILWIND CSS, JQUERY, MATERIAL UI, 
-- `JAVASCRIPT LIBRARIES/FRAMEWORKS`: ANIME.JS, SWIPER.JS, LEAFLET, ESLINT,REACT, NEXT.JS, EMBER.JS,GraphQL,
-- `STATE-MANAGEMENT LIBRARIES`: REDUX, REDUX-TOOLKIT, REDUX THUNK,RECOIL , REACT QUERY
-- `BACKEND JS TECHNOLOGIES` : EXPRESS.JS, NODE.JS
-- `DATABASE TECHNOLOGIE`S:MySQL,MONGODB,, Redis, PostgreSQL
-- `BACKEND JAVA TECHNOLOGIES`:JDBC API, JavaServer Faces technology(JSF), Java Persistence API(JPA), JavaServer Pages(JSP), Jakarta Servlet,Applet, JavaMail, Java API for XML Processing, Java EE server, Apache Tomcat
-- [Technology 3]
 
 ## 👨‍💻 Projects
 
