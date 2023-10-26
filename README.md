@@ -19,13 +19,12 @@ I'm Subhransu Priyaranjan Nayak, a passionate Software developer and ML Engineer
 
 ## 🔧 Skills
 
-- `Programming Languages`: C , C++ , Java , Python , Javascript , TYPESCRIPT
-- Full-Stack Developer : MERN Developer
+- `PROGRAMMING LANGUAGES` : C , C++ , Java , Python , Javascript , Typescript
+- `FULL-STACK DEVELOPER` : MERN Developer
+- `DATA SCIENCE LIBRARIES` : Numpy, Pandas, Matplotlib, Seaborn, Plotly, Sympy
+- `COMPUTER VISION LIBRARIES` :OpenCV,Scikit-image, Scipy,Python imaging library(PIL)
+- `MACHINE LEARNING LIBRARIES` : Scikit-learn,Tensorflow, Pytorch,Xgboost,Lightgbm
 
-
-- Data Science Libraries: NUMPY, PANDAS, MATPLOTLIB, SEABORN, PLOTLY, SYMPY
-- COMPUTER VISION LIBRARIES:OPENCV,SCIKIT-IMAGE, SCIPY,Python Imaging Library(PIL)
-- MACHINE LEARNING LIBRARIES: SCIKIT-LEARN,TENSORFLOW, PYTORCH,XGBOOST,LIGHTGBM
   
 ## 🎯 Courses
 
