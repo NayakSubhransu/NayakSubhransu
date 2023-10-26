@@ -7,14 +7,15 @@ I'm Subhransu Priyaranjan Nayak, a passionate Software developer and ML Engineer
 - 🎓 [Educational Background]
 - 💼 [Current Job or Project]
 - 🌱 [Areas of Interest or Learning]
--   Exploring New Stuffs over Internet and Web Surfing 
+-   Surfing the Web and the Internet for Novel Experiences
 
 ## 🔧 Skills
 
 - Programming Languages: C , C++ , Java , Python , Javascript , TYPESCRIPT
 - Full-Stack Developer : MERN Developer
 - Frontend technologies: HTMl, CSS,SASS, BOOTSTRAP,TAILWIND CSS, JQUERY, MATERIAL UI, 
-- JAVASCRIPT LIBRARIES/FRAMEWORKS: ANIME.JS, SWIPER.JS, LEAFLET, ESLINT,REACT, NEXT.JS, EMBER.JS,GraphQL
+- JAVASCRIPT LIBRARIES/FRAMEWORKS: ANIME.JS, SWIPER.JS, LEAFLET, ESLINT,REACT, NEXT.JS, EMBER.JS,GraphQL,
+- STATE-MANAGEMENT LIBRARIES: REDUX, REDUX-TOOLKIT, REDUX THUNK,RECOIL , REACT QUERY
 - BACKEND JS TECHNOLOGIES : EXPRESS.JS, NODE.JS
 - DATABASE TECHNOLOGIES:MySQL,MONGODB,, Redis, PostgreSQL
 - BACKEND JAVA TECHNOLOGIES:JDBC API, JavaServer Faces technology(JSF), Java Persistence API(JPA), JavaServer Pages(JSP), Jakarta Servlet,Applet, JavaMail, Java API for XML Processing, Java EE server, Apache Tomcat
