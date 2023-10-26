@@ -37,7 +37,7 @@ Instead of spending all my time in the digital realm, I want to explore new plac
 - `BACKEND JS TECHNOLOGIES` : Express.js, Node.js
 - `DATABASE TECHNOLOGIE`S: Mysql,MongoDb, Redis, PostgreSql
 - `BACKEND JAVA TECHNOLOGIES`:JDBC API, JavaServer Faces technology(JSF), Java Persistence API(JPA), JavaServer Pages(JSP), Jakarta Servlet,Applet, JavaMail, Java API for XML Processing, Java EE server, Apache Tomcat Server
-- 'UI AND WEB DESIGN` : Figma, Canva and Adobe
+- `UI AND WEB DESIGN` : Figma, Canva and Adobe
 
 
 ## 🌱 Areas of Interest
