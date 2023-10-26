@@ -1,4 +1,4 @@
-![image](https://github.com/NayakSubhransu/NayakSubhransu/assets/139241744/2924dbb9-6950-4b59-a287-15899c3d6b9d)# Hey there! 👋
+# Hey there! 👋
 
 I'm Subhransu Priyaranjan Nayak, a passionate Software developer and ML Engineer from Bhubaneswar,India. 🌍
 
