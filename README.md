@@ -15,23 +15,10 @@ Instead of spending all my time in the digital realm, I want to explore new plac
 
 - **High School (10th Grade):**
   - Name of School: Jeevan Jyothi Convent School(ICSE)(2018)
-
 - **Intermediate (12th Grade):**
   - Name of Institution: Ascent Junior College(2020)
-
 - **Bachelor's Degree (Engineering):**
   - Name of University: INDIAN INSTITUTE OF TECHNOLOGY BHUBANESWAR(2021- on going)
-
-
-## 🌱 Areas of Interest
-
-- Contributing to Open-source projects.
-- Exploring the online world and web deep for new experiences.
-- Website and UI Designing.
-- Investigating U-Tube for Educational Content.
-- Aptitude for the enjoyment of working out mathematical Problems.
-- A Passion for and Leaning Towards the Subjects of Computer Science.
-
 
 ## 🔧 Skills
 
@@ -52,6 +39,15 @@ Instead of spending all my time in the digital realm, I want to explore new plac
 - `BACKEND JAVA TECHNOLOGIES`:JDBC API, JavaServer Faces technology(JSF), Java Persistence API(JPA), JavaServer Pages(JSP), Jakarta Servlet,Applet, JavaMail, Java API for XML Processing, Java EE server, Apache Tomcat Server
 - 'UI AND WEB DESIGN` : Figma, Canva and Adobe
 
+
+## 🌱 Areas of Interest
+
+- Contributing to Open-source projects.
+- Exploring the online world and web deep for new experiences.
+- Website and UI Designing.
+- Investigating U-Tube for Educational Content.
+- Aptitude for the enjoyment of working out mathematical Problems.
+- A Passion for and Leaning Towards the Subjects of Computer Science.
   
 ## 🎯 Courses
 
