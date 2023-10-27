@@ -20,7 +20,7 @@ Instead of spending all my time in the digital realm, I want to explore new plac
 
 ## 🔧 Skills
 
-- `PROGRAMMING LANGUAGES`: C , C++, Java, Python, Javascript, Typescript
+- `PROGRAMMING LANGUAGES`: C, C++, Java, Python, Javascript, Typescript
 - `FULL-STACK DEVELOPER`: MERN Developer
 - `DATA SCIENCE LIBRARIES`: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Sympy
 - `COMPUTER VISION LIBRARIES`:OpenCV, Scikit-image, Scipy, Python imaging library(PIL)
@@ -29,8 +29,8 @@ Instead of spending all my time in the digital realm, I want to explore new plac
 
 ## 💻 Tech Stack
 
-- `FRONTEND TECHNOLOGIES`: Html, Css, Sass, Bootstrap, Tailwind CSS, Jquery, Material UI, 
-- `JAVASCRIPT LIBRARIES/FRAMEWORKS`:  React.Js, Next.JS, Ember.JS, Graphql,Anime.JS, Swiper.JS, Leaflet, Eslint,Underscore.js,Lodash,
+- `FRONTEND TECHNOLOGIES`: Html, CSS, Sass, Bootstrap, Tailwind CSS, Jquery, Material UI, 
+- `JAVASCRIPT LIBRARIES/FRAMEWORKS`:  React.Js, Next.JS, Ember.JS, Graphql,Anime.JS, Swiper.JS, Leaflet, Eslint, Underscore.js, Lodash, Webpack, Chrome Dev Tools, WebAssembly 
 - `STATE-MANAGEMENT LIBRARIES`: Redux, Redux-toolkit, Redux thunk, Recoil, React query
 - `BACKEND JS TECHNOLOGIES`: Express.js, Node.js
 - `DATABASE TECHNOLOGIE`: Mysql, MongoDB, Redis, PostgreSQL
