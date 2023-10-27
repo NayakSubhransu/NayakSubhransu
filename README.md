@@ -1,6 +1,7 @@
 # Hey there! 👋
 
-I'm ## `Subhransu Priyaranjan Nayak`, a passionate Software developer and ML Engineer from Bhubaneswar,India. 🌍
+## I'm `Subhransu Priyaranjan Nayak`, 
+a passionate Software developer and ML Engineer from Bhubaneswar,India. 🌍
 
 
 ## 🧐 About Me
