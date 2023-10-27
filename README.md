@@ -71,7 +71,7 @@ Instead of spending all my time in the digital realm, I want to explore new plac
 
 ## 📫 How to Reach Me
 
-- [Email](subhransunayak726@gmail.com)
+- `Email` : subhransunayak726@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/subhransu-priyanjan-nayak-4a02a4225/)
 - [Portfolio Website]()
 
