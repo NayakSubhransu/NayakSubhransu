@@ -20,32 +20,32 @@ Instead of spending all my time in the digital realm, I want to explore new plac
 
 ## 🔧 Skills
 
-- `PROGRAMMING LANGUAGES` : C , C++ , Java , Python , Javascript , Typescript
-- `FULL-STACK DEVELOPER` : MERN Developer
-- `DATA SCIENCE LIBRARIES` : Numpy, Pandas, Matplotlib, Seaborn, Plotly, Sympy
-- `COMPUTER VISION LIBRARIES` :OpenCV,Scikit-image, Scipy,Python imaging library(PIL)
-- `MACHINE LEARNING LIBRARIES` : Scikit-learn,Tensorflow, Pytorch,Xgboost,Lightgbm
+- `PROGRAMMING LANGUAGES`: C , C++, Java, Python, Javascript, Typescript
+- `FULL-STACK DEVELOPER`: MERN Developer
+- `DATA SCIENCE LIBRARIES`: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Sympy
+- `COMPUTER VISION LIBRARIES`:OpenCV, Scikit-image, Scipy, Python imaging library(PIL)
+- `MACHINE LEARNING LIBRARIES`: Scikit-learn, Tensorflow, Pytorch, Xgboost, Lightgbm
 
 
 ## 💻 Tech Stack
 
-- `FRONTEND TECHNOLOGIES`: Html,Css,Sass,Bootstrap,Tailwind css,Jquery,Material UI, 
-- `JAVASCRIPT LIBRARIES/FRAMEWORKS`: Anime.JS, Swiper.JS, Leaflet, Eslint,React, Next.JS, Ember.JS,Graphql,
-- `STATE-MANAGEMENT LIBRARIES`: Redux, Redux-toolkit, Redux thunk,Recoil , React query
-- `BACKEND JS TECHNOLOGIES` : Express.js, Node.js
-- `DATABASE TECHNOLOGIE`S: Mysql,MongoDb, Redis, PostgreSql
-- `BACKEND JAVA TECHNOLOGIES`:JDBC API, JavaServer Faces technology(JSF), Java Persistence API(JPA), JavaServer Pages(JSP), Jakarta Servlet,Applet, JavaMail, Java API for XML Processing, Java EE server, Apache Tomcat Server
-- `UI AND WEB DESIGN` : Figma, Canva and Adobe
+- `FRONTEND TECHNOLOGIES`: Html, Css, Sass, Bootstrap, Tailwind CSS, Jquery, Material UI, 
+- `JAVASCRIPT LIBRARIES/FRAMEWORKS`:  React.Js, Next.JS, Ember.JS, Graphql,Anime.JS, Swiper.JS, Leaflet, Eslint,Underscore.js,Lodash,
+- `STATE-MANAGEMENT LIBRARIES`: Redux, Redux-toolkit, Redux thunk, Recoil, React query
+- `BACKEND JS TECHNOLOGIES`: Express.js, Node.js
+- `DATABASE TECHNOLOGIE`: Mysql, MongoDB, Redis, PostgreSQL
+- `BACKEND JAVA TECHNOLOGIES`:JDBC API, JavaServer Faces technology(JSF), Java Persistence API(JPA), JavaServer Pages(JSP), Jakarta Servlet, Applet, JavaMail, Java API for XML Processing, Java EE server, Apache Tomcat Server
+- `UI AND WEB DESIGN`: Figma, Canva and Adobe
 
 
 ## 🌱 Areas of Interest
 
-- Contributing to Open-source projects.
+- Contributing to open-source projects.
 - Exploring the online world and web deep for new experiences.
 - Website and UI Designing.
-- Exploring U-Tube for Educational Content.
+- Exploring YouTube for Educational Content.
 - Aptitude for the enjoyment of working out mathematical Problems.
-- A Passion for and Leaning Towards the Subjects of Computer Science.
+- A Passion for and Learning Toward the Subjects of Computer Science.
   
 ## 🎯 Courses
 
@@ -72,7 +72,7 @@ Instead of spending all my time in the digital realm, I want to explore new plac
 ## 📫 How to Reach Me
 
 - [Email](subhransunayak726@gmail.com)
-- [LinkedIn](Your LinkedIn Profile Link)
+- [LinkedIn](https://www.linkedin.com/in/subhransu-priyanjan-nayak-4a02a4225/)
 - [Portfolio Website]()
 
 Feel free to connect! 🚀
