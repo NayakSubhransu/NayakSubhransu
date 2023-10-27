@@ -55,13 +55,13 @@ Instead of spending all my time in the digital realm, I want to explore new plac
 
 ## 🏆 Course Certificates
 
-- [Certificate 1](Certificate 1 Link)
-- [Certificate 2](Certificate 2 Link)
+- [Java programming Masterclass covering Java 11 and Java 17](https://drive.google.com/file/d/16ZFEBtMJHk6Weu8XVW7-L0k7HJD3nUxK/view?usp=sharing)
+- [Java In-Depth: Become a Complete Java Engineer!](https://drive.google.com/file/d/12SH5TnUe1in4ykmuMXb3kn4-PGWdgDyG/view?usp=sharing)
 
 ## 💼 Experiences
 
-- [Experience 1](Experience 1 Link): Brief description
-- [Experience 2](Experience 2 Link): Brief description
+- [INTER IIT TECH MEET 10.0](https://drive.google.com/file/d/1EaAh0NhMKyq-5XM5L7PDq1qvw-X8HsDI/view?usp=sharing): Brief description
+- A Member of `NEUROMANCER` - The Programming Society of IIT BHUBANESWAR 
 
 
 ## 👨‍💻 Projects
@@ -75,7 +75,8 @@ Instead of spending all my time in the digital realm, I want to explore new plac
 - [LinkedIn](https://www.linkedin.com/in/subhransu-priyanjan-nayak-4a02a4225/)
 - [Portfolio Website]()
 
-Feel free to connect! 🚀
+<h3 align="center">Feel free to connect! 🚀</h3>
+
 
 <!---
 NayakSubhransu/NayakSubhransu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
