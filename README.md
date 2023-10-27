@@ -43,7 +43,7 @@ Instead of spending all my time in the digital realm, I want to explore new plac
 - Contributing to Open-source projects.
 - Exploring the online world and web deep for new experiences.
 - Website and UI Designing.
-- Investigating U-Tube for Educational Content.
+- Exploring U-Tube for Educational Content.
 - Aptitude for the enjoyment of working out mathematical Problems.
 - A Passion for and Leaning Towards the Subjects of Computer Science.
   
