@@ -33,6 +33,7 @@ Instead of spending all my time in the digital realm, I want to explore new plac
 - `JAVASCRIPT LIBRARIES/FRAMEWORKS`:  React.Js, Next.JS, Ember.JS, Graphql,Anime.JS, Swiper.JS, Leaflet, Eslint, Underscore.js, Lodash, Webpack, Chrome Dev Tools, WebAssembly 
 - `STATE-MANAGEMENT LIBRARIES`: Redux, Redux-toolkit, Redux thunk, Recoil, React query
 - `BACKEND JS TECHNOLOGIES`: Express.js, Node.js
+- `CROSS PLATFORM APP DEVELOPMENT`: React Native (Expo Go)
 - `DATABASE TECHNOLOGIE`: Mysql, MongoDB, Redis, PostgreSQL
 - `BACKEND JAVA TECHNOLOGIES`:JDBC API, JavaServer Faces technology(JSF), Java Persistence API(JPA), JavaServer Pages(JSP), Jakarta Servlet, Applet, JavaMail, Java API for XML Processing, Java EE server, Apache Tomcat Server
 - `UI AND WEB DESIGN`: Figma, Canva and Adobe
@@ -73,7 +74,7 @@ Instead of spending all my time in the digital realm, I want to explore new plac
 
 - `Email` : subhransunayak726@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/subhransu-priyanjan-nayak-4a02a4225/)
-- [Portfolio Website]()
+- [Portfolio Website](Link)
 
 <h1 align="center">Feel free to connect! 🚀</h1>
 
