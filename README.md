@@ -60,7 +60,7 @@ Instead of spending all my time in the digital realm, I want to explore new plac
 
 ## 💼 Experiences
 
-- [INTER IIT TECH MEET 10.0](https://drive.google.com/file/d/1EaAh0NhMKyq-5XM5L7PDq1qvw-X8HsDI/view?usp=sharing): Brief description
+- [INTER IIT TECH MEET 10.0](https://drive.google.com/file/d/1EaAh0NhMKyq-5XM5L7PDq1qvw-X8HsDI/view?usp=sharing): This was the first hackathon I've ever participated in, and it's where I learned about a variety of different technology stacks and softwares.
 - A Member of `NEUROMANCER` - The Programming Society of IIT BHUBANESWAR 
 
 
@@ -75,7 +75,7 @@ Instead of spending all my time in the digital realm, I want to explore new plac
 - [LinkedIn](https://www.linkedin.com/in/subhransu-priyanjan-nayak-4a02a4225/)
 - [Portfolio Website]()
 
-<h3 align="center">Feel free to connect! 🚀</h3>
+<h1 align="center">Feel free to connect! 🚀</h1>
 
 
 <!---
