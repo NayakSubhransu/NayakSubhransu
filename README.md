@@ -12,11 +12,11 @@ Instead of spending all my time in the digital realm, I want to explore new plac
 ## 🎓 Educational Background
 
 - **High School (10th Grade):**
-  - Name of School: Jeevan Jyothi Convent School(ICSE)(2018)
+  - School: Jeevan Jyothi Convent School(ICSE)(2018)
 - **Intermediate (12th Grade):**
-  - Name of Institution: Ascent Junior College(2020)
+  - Institution: Ascent Junior College(2020)
 - **Bachelor's Degree (Engineering):**
-  - Name of University: INDIAN INSTITUTE OF TECHNOLOGY BHUBANESWAR(2021- on going)
+  - University: INDIAN INSTITUTE OF TECHNOLOGY BHUBANESWAR(2021- ongoing)
 
 ## 🔧 Skills
 
