@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Subhransu Priyaranjan Nayak</h1>
+<h1 align="center">Hi 👋, I'm `Subhransu Priyaranjan Nayak`</h1>
 <h3 align="center">A passionate Software Developer and Machine Learning Engineer from India</h3>
 
 ## 🧐 About Me
