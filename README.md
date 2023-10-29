@@ -59,7 +59,7 @@ Instead of spending all my time in the digital realm, I want to explore new plac
 - [Java programming Masterclass covering Java 11 and Java 17](https://drive.google.com/file/d/16ZFEBtMJHk6Weu8XVW7-L0k7HJD3nUxK/view?usp=sharing)
 - [Java In-Depth: Become a Complete Java Engineer!](https://drive.google.com/file/d/12SH5TnUe1in4ykmuMXb3kn4-PGWdgDyG/view?usp=sharing)
 - [Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023]](https://drive.google.com/file/d/1c1gn87jBX0uvSe-2GFx0N2j8amCexLo2/view?usp=sharing)
-- [Deep Learning A-Z™ 2023:Neural Networks, AI &ChatGPT Bonus]([https://drive.google.com/file/d/12SH5TnUe1in4ykmuMXb3kn4-PGWdgDyG/view?usp=sharing](https://drive.google.com/file/d/1PA6PjoYBLVx6uK3UZJ2l3QkueWgY5dM8/view?usp=sharing))
+- [Deep Learning A-Z™ 2023:Neural Networks, AI &ChatGPT Bonus](https://drive.google.com/file/d/1PA6PjoYBLVx6uK3UZJ2l3QkueWgY5dM8/view?usp=sharing)
 
 ## 💼 Experiences
 
