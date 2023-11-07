@@ -35,7 +35,7 @@ Instead of spending all my time in the digital realm, I want to explore new plac
 - `Backend JS Technologies`: Express.js, Node.js
 - `Cross-Platform App Development`: React Native (Expo Go)
 - `Database Technologies`: Mysql, MongoDB, Redis, PostgreSQL
-- `Java Backendf Technologies`:JDBC API, JavaServer Faces technology(JSF), Java Persistence API(JPA), JavaServer Pages(JSP), Jakarta Servlet, Applet, JavaMail, Java API for XML Processing, Java EE server, Apache Tomcat Server
+- `Java Backend Technologies`:JDBC API, JavaServer Faces technology(JSF), Java Persistence API(JPA), JavaServer Pages(JSP), Jakarta Servlet, Applet, JavaMail, Java API for XML Processing, Java EE server, Apache Tomcat Server
 - `UI and Web Design`: Figma, Canva and Adobe
 
 
@@ -48,11 +48,6 @@ Instead of spending all my time in the digital realm, I want to explore new plac
 - Aptitude for the enjoyment of working out mathematical Problems.
 - A Passion for and Learning Toward the Subjects of Computer Science.
   
-## 🎯 Courses
-
-- [](Course 1 Link): Description
-- [Course 2](Course 2 Link): Description
-
 
 ## 🏆 Course Certificates
 
@@ -63,14 +58,9 @@ Instead of spending all my time in the digital realm, I want to explore new plac
 
 ## 💼 Experiences
 
-- [INTER IIT TECH MEET 10.0](https://drive.google.com/file/d/1EaAh0NhMKyq-5XM5L7PDq1qvw-X8HsDI/view?usp=sharing): This was the first hackathon I've ever participated in, and it's where I learned about a variety of different technology stacks and softwares.
+- [INTER IIT TECH MEET 10.0](https://drive.google.com/file/d/1EaAh0NhMKyq-5XM5L7PDq1qvw-X8HsDI/view?usp=sharing): This was the first hackathon I've ever participated in, and it's where I learned about a variety of different technology stacks and software.
 - A Member of `NEUROMANCER` - The Programming Society of IIT BHUBANESWAR 
 
-
-## 👨‍💻 Projects
-
-- [Project 1](Project 1 Link): Brief description
-- [Project 2](Project 2 Link): Brief description
 
 ## 📫 How to Reach Me
 
