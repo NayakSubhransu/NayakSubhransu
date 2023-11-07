@@ -22,21 +22,21 @@ Instead of spending all my time in the digital realm, I want to explore new plac
 
 - `Programming Languages`: C, C++, Java, Python, Javascript, Typescript
 - `Full-Stack Developer`: MERN Stack, Java Enterprise Edition (Java EE) stack
-- `DATA SCIENCE LIBRARIES`: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Sympy
-- `COMPUTER VISION LIBRARIES`:OpenCV, Scikit-image, Scipy, Python imaging library(PIL)
-- `MACHINE LEARNING LIBRARIES`: Scikit-learn, Tensorflow, Pytorch, Xgboost, Lightgbm
+- `Data Science Libraries`: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Sympy
+- `Computer Vision Libraries`:OpenCV, Scikit-image, Scipy, Python imaging library(PIL)
+- `Machine Learning Libraries`: Scikit-learn, Tensorflow, Pytorch, Xgboost, Lightgbm
 
 
 ## 💻 Tech Stack
 
-- `FRONTEND TECHNOLOGIES`: Html, CSS, Sass, Bootstrap, Tailwind CSS, Jquery, Material UI, 
-- `JAVASCRIPT LIBRARIES/FRAMEWORKS`:  React.Js, Next.JS, Ember.JS, Graphql,Anime.JS, Swiper.JS, Leaflet, Eslint, Underscore.js, Lodash, Webpack, Chrome Dev Tools, WebAssembly 
-- `STATE-MANAGEMENT LIBRARIES`: Redux, Redux-toolkit, Redux thunk, Recoil, React query
-- `BACKEND JS TECHNOLOGIES`: Express.js, Node.js
-- `CROSS PLATFORM APP DEVELOPMENT`: React Native (Expo Go)
-- `DATABASE TECHNOLOGIE`: Mysql, MongoDB, Redis, PostgreSQL
-- `BACKEND JAVA TECHNOLOGIES`:JDBC API, JavaServer Faces technology(JSF), Java Persistence API(JPA), JavaServer Pages(JSP), Jakarta Servlet, Applet, JavaMail, Java API for XML Processing, Java EE server, Apache Tomcat Server
-- `UI AND WEB DESIGN`: Figma, Canva and Adobe
+- `Frontend Technologies`: HTML, CSS, Sass, Bootstrap, Tailwind CSS, Jquery, Material UI, 
+- `Javascript Libraries/Frameworks`:  React.Js, Next.JS, Ember.JS, Graphql,Anime.JS, Swiper.JS, Leaflet, Eslint, Underscore.js, Lodash, Webpack, Chrome Dev Tools, WebAssembly 
+- `State-Management Libraries`: Redux, Redux-toolkit, Redux thunk, Recoil, React query
+- `Backend JS Technologies`: Express.js, Node.js
+- `Cross-Platform App Development`: React Native (Expo Go)
+- `Database Technologies`: Mysql, MongoDB, Redis, PostgreSQL
+- `Java Backendf Technologies`:JDBC API, JavaServer Faces technology(JSF), Java Persistence API(JPA), JavaServer Pages(JSP), Jakarta Servlet, Applet, JavaMail, Java API for XML Processing, Java EE server, Apache Tomcat Server
+- `UI and Web Design`: Figma, Canva and Adobe
 
 
 ## 🌱 Areas of Interest
