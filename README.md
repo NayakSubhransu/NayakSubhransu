@@ -21,7 +21,7 @@ Instead of spending all my time in the digital realm, I want to explore new plac
 ## 🔧 Skills
 
 - `PROGRAMMING LANGUAGES`: C, C++, Java, Python, Javascript, Typescript
-- `FULL-STACK DEVELOPER`: MERN Developer, Java Enterprise Edition (Java EE) stack
+- `FULL-STACK DEVELOPER`: MERN Stack, Java Enterprise Edition (Java EE) stack
 - `DATA SCIENCE LIBRARIES`: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Sympy
 - `COMPUTER VISION LIBRARIES`:OpenCV, Scikit-image, Scipy, Python imaging library(PIL)
 - `MACHINE LEARNING LIBRARIES`: Scikit-learn, Tensorflow, Pytorch, Xgboost, Lightgbm
