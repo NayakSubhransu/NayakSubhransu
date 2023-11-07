@@ -3,7 +3,7 @@
 
 ## 🧐 About Me
 
-My journey into the world of mathematics and Computer science began during my early years. I took my first steps into the realm of coding back in 9th grade, igniting a passion that has continued to drive me forward. 
+My journey into mathematics and Computer science began during my early years. I took my first steps into the realm of coding back in 9th grade, igniting a passion that has continued to drive me forward. 
 
 The excitement of discovering new technologies that have the potential to simplify and improve our lives is what keeps me interested outside of the domain of algorithms and programming. My interest in technology and engineering stems from a deep-seated curiosity and motivates me to keep learning and expanding my horizons. 
 
@@ -21,7 +21,7 @@ Instead of spending all my time in the digital realm, I want to explore new plac
 ## 🔧 Skills
 
 - `PROGRAMMING LANGUAGES`: C, C++, Java, Python, Javascript, Typescript
-- `FULL-STACK DEVELOPER`: MERN Developer
+- `FULL-STACK DEVELOPER`: MERN Developer, Java Enterprise Edition (Java EE) stack
 - `DATA SCIENCE LIBRARIES`: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Sympy
 - `COMPUTER VISION LIBRARIES`:OpenCV, Scikit-image, Scipy, Python imaging library(PIL)
 - `MACHINE LEARNING LIBRARIES`: Scikit-learn, Tensorflow, Pytorch, Xgboost, Lightgbm
@@ -74,7 +74,7 @@ Instead of spending all my time in the digital realm, I want to explore new plac
 
 ## 📫 How to Reach Me
 
-- `Email` : subhransunayak726@gmail.com
+- `Email`: subhransunayak726@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/subhransu-priyanjan-nayak-4a02a4225/)
 - [Portfolio Website](Link)
 
