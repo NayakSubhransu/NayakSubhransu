@@ -3,11 +3,11 @@
 
 ## 🧐 About Me
 
-My journey into mathematics and Computer science began during my early years. I took my first steps into the realm of coding back in 9th grade, igniting a passion that has continued to drive me forward. 
+I started getting into mathematics and computer science during my younger years. It all began for me back in the ninth grade when I was taking my first steps into coding. This ignited a passion that still keeps me motivated today.
 
-The excitement of discovering new technologies that have the potential to simplify and improve our lives is what keeps me interested outside of the domain of algorithms and programming. My interest in technology and engineering stems from a deep-seated curiosity and motivates me to keep learning and expanding my horizons. 
+Although I have a love for algorithms and programming, what really drives me is discovering new technology that can make our lives easier. The thought of finding something like this excites me to no end. Curiosity pushed me to become interested in technology and engineering and now motivates me to keep learning.
 
-Instead of spending all my time in the digital realm, I want to explore new places and try new foods whenever I get the chance. Discovering new areas and trying local delicacies is a source of great pleasure and growth for me.
+Instead of spending my time in front of a screen, I prefer to explore new places and try new foods whenever the opportunity arises. There’s something about discovering a new place that brings me joy and growth.
 
 ## 🎓 Educational Background
 
