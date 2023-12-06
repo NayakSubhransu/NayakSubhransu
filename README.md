@@ -25,7 +25,11 @@ Instead of spending my time in front of a screen, I prefer to explore new places
 
 ## 🔧 Skills
 
-- `Programming Languages`: C, C++, Java, Python, Javascript, Typescript
+- `Programming Languages`:
+   
+ | Java | Javascript | Typescript | Python | C | C++ | 
+ | :---: | :---: | :---: | :---: | :---: | :---: | 
+  
 - `Full-Stack Developer`: MERN Stack, Java Enterprise Edition (Java EE) stack
 - `Data Science Libraries`: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Sympy
 - `Computer Vision Libraries`:OpenCV, Scikit-image, Scipy, Python imaging library(PIL)
