@@ -55,8 +55,16 @@ Instead of spending my time in front of a screen, I prefer to explore new places
 
 ## 💻 Tech Stack
 
-- `Frontend Technologies`: HTML, CSS, Sass, Bootstrap, Tailwind CSS, Jquery, Material UI, 
-- `Javascript Libraries/Frameworks`:  React.Js, Next.JS, Ember.JS, Graphql,Anime.JS, Swiper.JS, Leaflet, Eslint, Underscore.js, Lodash, Webpack, Chrome Dev Tools, WebAssembly 
+- `Frontend Technologies`
+
+   | HTML | CSS | Sass | Bootstrap | Tailwind CSS | Jquery | Material UI | Chakra UI
+   | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
+  
+- `Javascript Libraries/Frameworks`
+
+   | React.Js | Next.JS | Ember.JS | Graphql | Anime.JS | Swiper.JS | Leaflet | Eslint | Underscore.js | Lodash | Webpack | Chrome Dev Tools | WebAssembly |
+   | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  
 - `State-Management Libraries`: Redux, Redux-toolkit, Redux thunk, Recoil, React query
 - `Backend JS Technologies`: Express.js, Node.js
 - `Cross-Platform App Development`: React Native (Expo Go)
