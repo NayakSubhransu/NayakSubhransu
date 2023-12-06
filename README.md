@@ -16,9 +16,12 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhransu-p-nayak/)&nbsp; 
 
-![](https://komarev.com/ghpvc/?username=NayakSubhransu&color=green)
 
 ![](https://komarev.com/ghpvc/?username=NayakSubhransu&style=flat-square&color=green)
+<div style="font-size: 20px;">
+    <img src="https://komarev.com/ghpvc/?username=NayakSubhransu&style=flat-square&color=green" alt="Profile Views">
+</div>
+
 
 
 
