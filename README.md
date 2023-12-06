@@ -65,14 +65,31 @@ Instead of spending my time in front of a screen, I prefer to explore new places
    | React.Js | Next.JS | Ember.JS | Graphql | Anime.JS | Swiper.JS | Leaflet | Eslint | Underscore.js | Lodash | Webpack | Chrome Dev Tools | WebAssembly |
    | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
   
-- `State-Management Libraries`: Redux, Redux-toolkit, Redux thunk, Recoil, React query
-- `Backend JS Technologies`: Express.js, Node.js
-- `Cross-Platform App Development`: React Native (Expo Go)
-- `Database Technologies`: Mysql, MongoDB, Redis, PostgreSQL
-- `Java Backend Technologies`:JDBC API, JavaServer Faces technology(JSF), Java Persistence API(JPA), JavaServer Pages(JSP), Jakarta Servlet, Applet, JavaMail, Java API for XML Processing, Java EE server, Apache Tomcat Server
-- `UI and Web Design`: Figma, Canva and Adobe
+- `State-Management Libraries`
 
+   | Redux | Redux-toolkit | Redux thunk | Recoil | React query | 
+   | :---: | :---: | :---: | :---: | :---: | 
+  
+- `Backend JS Technologies`
 
+   | Express.js | Node.js | 
+   | :---: | :---: |
+  
+- `Database Technologies`
+
+   | Mysql | MongoDB | Redis | PostgreSQL | 
+   | :---: | :---: | :---: | :---: |
+  
+- `Java Backend Technologies`
+  
+   | JDBC API | JavaServer Faces technology(JSF) | Java Persistence API(JPA) | JavaServer Pages(JSP) | Jakarta Servlet | Applet | JavaMail | Java API for XML Processing | Java EE server | Apache Tomcat Server |
+   | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
+  
+- `Web Design and UI Tools`
+
+   | Figma | Canva | Adobe | 
+   | :---: | :---: | :---: |
+  
 ## 🌱 Areas of Interest
 
 - Contributing to open-source projects.
