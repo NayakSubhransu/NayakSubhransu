@@ -1,21 +1,8 @@
 <h1 align="center">Hi 👋, I'm <code>Subhransu Priyaranjan Nayak</code></h1>
 <h3 align="center">I hail from India ✨ and am a dedicated software developer and ML engineer. </h3>
 
+
 <h3>🧐 About Me</h3>
-
-<img align="right" alt="GIF" src="https://github.com/Spidy20/spidy20/blob/main/demo.gif" width="360"/>
-
-<p>I started getting into mathematics and computer science during my younger years. It all began for me back in the ninth grade when I was taking my first steps into coding. This ignited a passion that still keeps me motivated today.</p>
-
-<p>Although I have a love for algorithms and programming, what drives me is discovering new technology that can make our lives easier. The thought of finding something like this excites me to no end. Curiosity pushed me to become interested in technology and engineering and now motivates me to keep learning.</p>
-
-<p>Instead of spending my time in front of a screen, I prefer to explore new places and try new foods whenever the opportunity arises. There’s something about discovering a new place that brings me joy and growth.</p>
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhransu-p-nayak/)&nbsp; 
-
-![](https://komarev.com/ghpvc/?username=NayakSubhransu)
-
-<h1>🧐 About Me</h1>
 
 <div style="margin-left: 20px;">
     <img align="right" alt="GIF" src="https://github.com/Spidy20/spidy20/blob/main/demo.gif" width="360"/>
@@ -27,6 +14,9 @@
 
 <p>Instead of spending my time in front of a screen, I prefer to explore new places and try new foods whenever the opportunity arises. There’s something about discovering a new place that brings me joy and growth.</p>
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhransu-p-nayak/)&nbsp; 
+
+![](https://komarev.com/ghpvc/?username=NayakSubhransu)
 
 
 
