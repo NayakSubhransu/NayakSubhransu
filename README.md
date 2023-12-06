@@ -95,15 +95,17 @@ Instead of spending my time in front of a screen, I prefer to explore new places
   
 ## 🌱 Areas of Interest
 
-- Contributing to open-source projects.
-- Exploring the online world and web deep for new experiences.
-- Website and UI Designing.
-- Exploring YouTube for Educational Content.
-- Aptitude for the enjoyment of working out mathematical Problems.
-- A Passion for and Learning Toward the Subjects of Computer Science.
+- 🚀 Passionate about and studying computer science.
+- 💻 **Open-source Alchemist:** Contributing to open-source projects.
+- 🌐 Navigating the vast seas of the internet for thrilling new experiences.
+- 🎨 Website and UI designing, turning ideas into visually appealing interfaces.
+- 📚 Learning continuously on YouTube.
+- ➕ Aptitude for the joy of solving mathematical problems.
+
+
   
 
-## 🏆 Course Certificates
+## 🏆 Course Certifications
 
 - [Java programming Masterclass covering Java 11 and Java 17](https://drive.google.com/file/d/16ZFEBtMJHk6Weu8XVW7-L0k7HJD3nUxK/view?usp=sharing)
 - [Java In-Depth: Become a Complete Java Engineer!](https://drive.google.com/file/d/12SH5TnUe1in4ykmuMXb3kn4-PGWdgDyG/view?usp=sharing)
