@@ -3,8 +3,7 @@
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhransu-p-nayak/)&nbsp; 
-
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=NayakSubhransu.visitor-badge&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=NayakSubhransu.visitor-badge&left_color=green&right_color=red)
 
 
 ## 🧐 About Me
