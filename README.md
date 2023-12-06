@@ -15,12 +15,11 @@ Instead of spending my time in front of a screen, I prefer to explore new places
 
 ## 🎓 Educational Background
 
-- **High School (10th Grade):**
-  - School: Jeevan Jyothi Convent(ICSE) School (2018)
-- **Intermediate (12th Grade):**
-  - Institution: Ascent Junior College (2020)
-- **Bachelor's Degree (Engineering):**
-  - University: INDIAN INSTITUTE OF TECHNOLOGY BHUBANESWAR (2021- ongoing)
+| Degree                    | Institution                                   | Year          |
+|---------------------------|----------------------------------------------|---------------|
+| High School (10th Grade)  | Jeevan Jyothi Convent (ICSE) School    |  2018           |
+| Intermediate (12th Grade) | Ascent Junior College                  |  2020            |
+| Bachelor's Degree         | Indian Institute of Technology Bhubaneswar   | 2021 - ongoing|
 
 ## 🔧 Skills
 
