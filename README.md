@@ -38,7 +38,7 @@ Instead of spending my time in front of a screen, I prefer to explore new places
 - `Data Science Libraries`
 
    | Numpy | Pandas | Matplotlib | Seaborn | Plotly | Sympy | Flask | Statsmodel | Streamlit |
-   | | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+   | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
    
 - `Computer Vision Libraries`
    | OpenCV | Scikit-image | Scipy | Python imaging library(PIL) | 
