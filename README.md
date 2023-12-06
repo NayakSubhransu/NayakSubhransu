@@ -35,13 +35,19 @@ Instead of spending my time in front of a screen, I prefer to explore new places
    | MERN Stack | Java Enterprise Edition (Java EE) stack | React Native Stack | 
    | :---: | :---: | :---: |
   
-- `Data Science Libraries`: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Sympy
+- `Data Science Libraries`
 
-   | Numpy | Pandas | Matplotlib | Seaborn | Plotly | Sympy | Flask | Statsmodel |
-   | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+   | Numpy | Pandas | Matplotlib | Seaborn | Plotly | Sympy | Flask | Statsmodel | Streamlit |
+   | | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
    
-- `Computer Vision Libraries`:OpenCV, Scikit-image, Scipy, Python imaging library(PIL)
-- `Machine Learning Libraries`: Scikit-learn, Tensorflow, Pytorch, Xgboost, Lightgbm
+- `Computer Vision Libraries`
+   | OpenCV | Scikit-image | Scipy | Python imaging library(PIL) | 
+   | :---: | :---: | :---: | :---: | 
+  
+- `Machine Learning Libraries`
+  
+   | Nltk | Scikit-learn | Tensorflow | Pytorch | Xgboost | Lightgbm | 
+   | :---: | :---: | :---: | :---: | :---: | :---: |
 
     
 
