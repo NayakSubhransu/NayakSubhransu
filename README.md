@@ -18,7 +18,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=NayakSubhransu&style=flat-square&color=green)
-<div style="font-size: 20px;">
+<div style="font-size: 40px;">
     <img src="https://komarev.com/ghpvc/?username=NayakSubhransu&style=flat-square&color=green" alt="Profile Views">
 </div>
 
