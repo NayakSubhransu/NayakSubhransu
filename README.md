@@ -85,12 +85,15 @@ Instead of spending my time in front of a screen, I prefer to explore new places
    | JDBC API | JavaServer Faces technology(JSF) | Java Persistence API(JPA) | JavaServer Pages(JSP) | Jakarta Servlet | Applet | JavaMail | Java API for XML Processing | Java EE server | Apache Tomcat Server |
    | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
 
-    [![Top Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=NayakSubhransu&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  
 - `Web Design and UI Tools`
 
    | Figma | Canva | Adobe | 
    | :---: | :---: | :---: |
+
+
+  ![Subhransu's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayakSubhransu&show_icons=true&theme=dark)
+
+  [![Top Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=NayakSubhransu&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
 ## 🌱 Areas of Interest
 
