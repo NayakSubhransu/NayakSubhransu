@@ -2,7 +2,7 @@
 <h3 align="center">I hail from India ✨ and am a dedicated software developer and ML engineer. </h3>
 
 
-<h3>🧐 About Me</h3>
+<h2>🧐 About Me</h2>
 
 <div style="margin-left: 20px;">
     <img align="right" alt="GIF" src="https://github.com/Spidy20/spidy20/blob/main/demo.gif" width="360"/>
