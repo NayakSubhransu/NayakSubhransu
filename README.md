@@ -27,17 +27,18 @@ Instead of spending my time in front of a screen, I prefer to explore new places
 
 - `Programming Languages`
    
- | Java | Javascript | Typescript | Python | C | C++ | 
- | :---: | :---: | :---: | :---: | :---: | :---: | 
+    | Java | Javascript | Typescript | Python | C | C++ | 
+    | :---: | :---: | :---: | :---: | :---: | :---: | 
   
 - `Full-Stack Developer`: MERN Stack, Java Enterprise Edition (Java EE) stack
+
+   | MERN Stack | Java Enterprise Edition (Java EE) stack | React Native Stack | 
+   | :---: | :---: | :---: |
 - `Data Science Libraries`: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Sympy
 - `Computer Vision Libraries`:OpenCV, Scikit-image, Scipy, Python imaging library(PIL)
 - `Machine Learning Libraries`: Scikit-learn, Tensorflow, Pytorch, Xgboost, Lightgbm
 
-- | Full-Stack Developer | Data Science Libraries | Computer Vision Libraries | Machine Learning Libraries |
-| :---: | :---: | :---: | :---: |
-| MERN Stack, Java EE stack | Numpy, Pandas, Matplotlib, Seaborn, Plotly, Sympy | OpenCV, Scikit-image, Scipy, Python imaging library(PIL) | Scikit-learn, Tensorflow, Pytorch, Xgboost, Lightgbm |
+    
 
 
 
