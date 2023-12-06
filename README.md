@@ -15,7 +15,7 @@ Instead of spending my time in front of a screen, I prefer to explore new places
 </div></div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhransu-p-nayak/)&nbsp; 
-![Profile Views](https://shields.io/badge/dynamic/json?label=Profile%20Views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2FNayakSubhransu%2Fprofile-views&color=blue)
+
 
 ![](https://komarev.com/ghpvc/?username=NayakSubhransu)
 
