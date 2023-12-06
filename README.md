@@ -18,9 +18,9 @@
 
 ![](https://komarev.com/ghpvc/?username=NayakSubhransu&color=green)
 
-![](https://komarev.com/ghpvc/?username=NayakSubhransu&style=flat-square)
+![](https://komarev.com/ghpvc/?username=NayakSubhransu&style=flat-square&color=green)
 
-![](https://komarev.com/ghpvc/?username=NayakSubhransu&style=for-the-badge)
+
 
 
 
