@@ -31,7 +31,7 @@ Instead of spending my time in front of a screen, I prefer to explore new places
 
 <h1>🧐 About Me</h1>
 
-<div style="margin-bottom: 20px;">
+<div style="margin-left: 20px;">
     <img align="right" alt="GIF" src="https://github.com/Spidy20/spidy20/blob/main/demo.gif" width="360"/>
 </div>
 
