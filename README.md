@@ -8,7 +8,7 @@
     <img align="right" alt="GIF" src="https://github.com/Spidy20/spidy20/blob/main/demo.gif" width="360"/>
 </div>
 
-<p>I started getting into mathematics and computer science during my younger years. It all began for me back in the ninth grade when I was taking my first steps into coding. This ignited a passion that still keeps me motivated today.</p>
+<p style="font-family: 'Helvetica', sans-serif; line-height: 1.6; color: #333;"   >I started getting into mathematics and computer science during my younger years. It all began for me back in the ninth grade when I was taking my first steps into coding. This ignited a passion that still keeps me motivated today.</p>
 
 <p>Although I have a love for algorithms and programming, what drives me is discovering new technology that can make our lives easier. The thought of finding something like this excites me to no end. Curiosity pushed me to become interested in technology and engineering and now motivates me to keep learning.</p>
 
