@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm <code>Subhransu Priyaranjan Nayak</code></h1>
 <h3 align="center">I hail from India and am a dedicated software developer and ML engineer.</h3>
-
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhransu-p-nayak/)&nbsp; 
+![](https://Visitor-badge.glitch.me/badge?page_id=spidy20.profileviews-badge)
 ## 🧐 About Me
 
 I started getting into mathematics and computer science during my younger years. It all began for me back in the ninth grade when I was taking my first steps into coding. This ignited a passion that still keeps me motivated today.
