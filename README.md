@@ -3,9 +3,8 @@
 
 <img align="right" alt="GIF" src="https://github.com/Spidy20/spidy20/blob/main/demo.gif" width="360"/>
 
-
-<div align="left">
 ## 🧐 About Me
+<div align="left">
 
 I started getting into mathematics and computer science during my younger years. It all began for me back in the ninth grade when I was taking my first steps into coding. This ignited a passion that still keeps me motivated today.
 
