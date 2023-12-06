@@ -1,3 +1,4 @@
+<img align="right" alt="GIF" src="https://github.com/Spidy20/spidy20/blob/main/demo.gif" width="360"/>
 <h1 align="center">Hi 👋, I'm <code>Subhransu Priyaranjan Nayak</code></h1>
 <h3 align="center">I hail from India ✨ and am a dedicated software developer and ML engineer. </h3>
 
