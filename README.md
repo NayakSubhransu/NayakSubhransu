@@ -31,7 +31,7 @@
 |---------------------------|----------------------------------------------|---------------|
 | High School (10th Grade)  | Jeevan Jyothi Convent (ICSE) School    |  2018           |
 | Intermediate (12th Grade) | Ascent Junior College                  |  2020            |
-| Bachelor's Degree(Mechanical Engineering)         | Indian Institute of Technology Bhubaneswar   | 2021 - ongoing|
+| Bachelor's Degree       | Indian Institute of Technology Bhubaneswar   | 2021 - ongoing|
 
 ## 🔧 Skills
 
