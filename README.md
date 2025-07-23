@@ -123,6 +123,9 @@
 - [Java In-Depth: Become a Complete Java Engineer!](https://drive.google.com/file/d/12SH5TnUe1in4ykmuMXb3kn4-PGWdgDyG/view?usp=sharing)
 - [Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023]](https://drive.google.com/file/d/1c1gn87jBX0uvSe-2GFx0N2j8amCexLo2/view?usp=sharing)
 - [Deep Learning A-Z™ 2023:Neural Networks, AI &ChatGPT Bonus](https://drive.google.com/file/d/1PA6PjoYBLVx6uK3UZJ2l3QkueWgY5dM8/view?usp=sharing)
+- [React Native - The Practical Guide](https://drive.google.com/file/d/1PA6PjoYBLVx6uK3UZJ2l3QkueWgY5dM8/view?usp=sharing)
+- [React - The Complete Guide 2025 (incl. Next.js, Redux)](https://drive.google.com/file/d/1ysLwlxuLtG6cgxXbrWYb1QQQhX4zowie/view?usp=drive_link)
+- [Foundations of Project Management]( https://drive.google.com/file/d/1iJ4iG0zcBBHiNRAdeBjEvLP0Sy_DLWBF/view?usp=sharing )
 
 ## 💼 Experiences
 
