@@ -135,7 +135,7 @@
 
 ## 📫 How to Reach Me
 
-- `Email`: subhransunayak726@gmail.com
+- `Email`: subhransu.nayak.connect@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/subhransu-priyanjan-nayak-4a02a4225/)
 - [Portfolio Website](Link)
 
