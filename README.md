@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <code>Subhransu Priyaranjan Nayak</code></h1>
-<h3 align="center">I hail from India ✨ and am a dedicated software developer and ML engineer. </h3>
+<h3 align="center">I hail from India ✨ and am a dedicated software engineer and AI engineer. </h3>
 
 
 <h2>🧐 About Me</h2>
