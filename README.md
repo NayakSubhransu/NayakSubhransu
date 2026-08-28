@@ -32,24 +32,20 @@ I am experienced in **distributed systems internals, low-latency backend infrast
 
 ### 🚀 Featured Engineering Projects
 
-#### 🔹 [DynamoCore — Distributed Key-Value Store](https://github.com/NayakSubhransu)
+#### 🔹 [DynamoCore — Distributed Key-Value Store](https://github.com/NayakSubhransu/DynamoCore)
 > *Java implementation of the seminal Amazon Dynamo distributed storage paper.*
 - Built an **AP distributed store** with asynchronous **quorum consensus ($N=3, W=2, R=2$)**, achieving **12 ms p99 write latency**.
 - Implemented **consistent hashing with MD5 virtual nodes** (sub-4% key distribution deviation), **vector clocks** for causally concurrent updates, and **Merkle tree anti-entropy** for background replica sync.
 
-#### 🔹 [Enterprise RAG Orchestrator](https://github.com/NayakSubhransu)
+#### 🔹 [Enterprise RAG Orchestrator](https://github.com/NayakSubhransu/enterprise-rag-orchestrator)
 > *Stateful Agentic RAG & Secure Text-to-SQL Execution Engine.*
 - Architected a **multi-path reasoning workflow** using **LangGraph** with self-correcting query rewrite loops and **Qdrant hybrid retrieval (Dense + Sparse RRF)**.
 - Integrated an **AST-guarded Text-to-SQL engine** with 9-layer defensive guardrails to validate queries prior to read-only database execution.
 
-#### 🔹 [UrbanEats — Microservices Delivery Platform](https://github.com/NayakSubhransu)
+#### 🔹 [UrbanEats — Microservices Delivery Platform](https://github.com/NayakSubhransu/UrbanEats)
 > *Decoupled real-time food delivery architecture.*
 - Engineered **6 autonomous Node.js/TypeScript microservices** communicating asynchronously over **RabbitMQ message queues**.
 - Built **real-time driver dispatch** using **Socket.IO** and **MongoDB 2dsphere geospatial indexing**, with idempotency keys and HMAC validation for transactions.
-
-#### 🔹 [Financial Transaction Ledger Backend](https://github.com/NayakSubhransu)
-> *ACID-compliant double-entry ledger system.*
-- Designed double-entry transaction posting with **strict serializability, idempotency tokens, and distributed locking** via Redis.
 
 ---
 
