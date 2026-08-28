@@ -10,7 +10,7 @@
 
 **Software Developer & AI Engineer** | **IIT Bhubaneswar**
 
-I specialize in **distributed systems internals, low-latency backend infrastructure, and production GenAI/Agentic RAG orchestration**. With a foundation in competitive programming and core computer science fundamentals, I design and build resilient, high-throughput software architectures from first principles.
+I am experienced in **distributed systems internals, low-latency backend infrastructure, and production GenAI/Agentic RAG orchestration**. With a foundation in competitive programming and core computer science fundamentals, I design and build resilient, high-throughput software architectures from first principles.
 
 - 🎓 **Education:** Integrated B.Tech from **IIT Bhubaneswar**
 - 🏆 **Achievements:** **Bronze Medalist at Inter-IIT Tech Meet 10.0** (podium across 23 IITs)
@@ -22,11 +22,11 @@ I specialize in **distributed systems internals, low-latency backend infrastruct
 ### 🛠️ Tech Stack & Skills
 
 - **Languages:** Java, C++, Python, JavaScript, TypeScript, SQL
-- **Backend & Systems:** Node.js, Express.js, FastAPI, Spring Boot concepts, RabbitMQ, Microservices, RESTful APIs, Concurrency & Multithreading
-- **Distributed Systems & Storage:** Amazon Dynamo Model (AP Systems), Quorum Consensus ($N, W, R$), Consistent Hashing, Vector Clocks, Merkle Trees, Gossip Protocol
-- **Databases & Data Engineering:** PostgreSQL, MongoDB (Spatial `2dsphere`), Redis, RocksDB, Google BigQuery, Qdrant Vector DB, Looker Studio
-- **AI & GenAI Orchestration:** LangGraph, Agentic RAG, Self-RAG, Corrective RAG, AST-guarded Text-to-SQL, PyTorch, Hugging Face, Dia-TTS
-- **DevOps & Core CS:** Docker, Kubernetes basics, Git/GitHub, Linux, OS, Computer Networks, DBMS, System Design (HLD/LLD)
+- **Core CS:** Docker, Kubernetes basics, Git/GitHub, Linux, OS, Computer Networks, DBMS, System Design (HLD/LLD)
+- **Backend & Systems:** Node.js, Express.js, FastAPI, RabbitMQ, Microservices, RESTful APIs, Concurrency & Multithreading
+- **Distributed Systems & Storage:** Amazon Dynamo Model (AP Systems), Quorum Consensus, Consistent Hashing, Vector Clocks, Merkle Trees, Gossip Protocol
+- **Databases & Data Engineering:** PostgreSQL, MongoDB, Redis, RocksDB, Google BigQuery, Qdrant Vector DB, Looker Studio
+- **AI & GenAI Orchestration:** LangGraph, Agentic RAG, Self-RAG, Corrective RAG, AST-guarded Text-to-SQL, PyTorch, Hugging Face
 
 ---
 
