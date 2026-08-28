@@ -69,4 +69,4 @@ I specialize in **distributed systems internals, low-latency backend infrastruct
 - **Portfolio:** [subhransu.dev](https://subhransu.dev)
 - **Email:** [subhransu.nayak.connect@gmail.com](mailto:subhransu.nayak.connect@gmail.com)
 - **LinkedIn:** [linkedin.com/in/subhransu-p-nayak](https://linkedin.com/in/subhransu-p-nayak)
-- **Resume:** [View / Download](https://subhransu.dev)
+- **Resume:** [View / Download](https://subhransu.dev/resume)
