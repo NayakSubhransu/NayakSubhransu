@@ -14,7 +14,7 @@ I am experienced in **distributed systems internals, low-latency backend infrast
 
 - 🎓 **Education:** Integrated B.Tech from **IIT Bhubaneswar**
 - 🏆 **Achievements:** **Bronze Medalist at Inter-IIT Tech Meet 10.0** (podium across 23 IITs)
-- 💡 **Competitive Programming:** **1,500+ DSA problems solved** | LeetCode Peak: **1985** (Top 208%) | CodeChef: **1707** (3-Star) | Codeforces: Specialist **1470**
+- 💡 **Competitive Programming:** **1,500+ DSA problems solved** | LeetCode Peak: **1985** (Top 2.8%) | CodeChef: **1707** (3-Star) | Codeforces: Specialist **1470**
 - 🌐 **Website:** [subhransu.dev](https://subhransu.dev)
 
 ---
