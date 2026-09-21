@@ -2,7 +2,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-subhransu.dev-10b981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://subhransu.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-subhransu--p--nayak-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhransu-p-nayak)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Top%204%25%20(1934)-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Top%202.8%25%20(1985)-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
 
 ---
 
