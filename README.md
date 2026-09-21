@@ -14,7 +14,7 @@ I am experienced in **distributed systems internals, low-latency backend infrast
 
 - 🎓 **Education:** Integrated B.Tech from **IIT Bhubaneswar**
 - 🏆 **Achievements:** **Bronze Medalist at Inter-IIT Tech Meet 10.0** (podium across 23 IITs)
-- 💡 **Competitive Programming:** **1,500+ DSA problems solved** | LeetCode Peak: **1934** (Top 4%) | CodeChef: **1682** (3-Star) | Codeforces: **1345**
+- 💡 **Competitive Programming:** **1,500+ DSA problems solved** | LeetCode Peak: **1985** (Top 208%) | CodeChef: **1707** (3-Star) | Codeforces: Specialist **1470**
 - 🌐 **Website:** [subhransu.dev](https://subhransu.dev)
 
 ---
@@ -52,8 +52,8 @@ I am experienced in **distributed systems internals, low-latency backend infrast
 ### 💼 Professional Experience
 
 - **Data Engineering Intern @ HealthyDay**
-  - Engineered Google BigQuery infrastructure supporting **600K+ registered users**.
-  - Optimized **150+ SQL queries/pipelines** and designed **50+ reusable analytical views** powering real-time Looker Studio retention and operations dashboards.
+  - Engineered Google BigQuery infrastructure supporting **1.3M+ registered users**.
+  - Optimized **250+ SQL queries/pipelines** and designed **100+ reusable analytical views** powering real-time Looker Studio retention and operations dashboards.
 - **AI Engineer Intern @ Hanyaa Auto Technologies**
   - Fine-tuned **Dia-TTS (1.6B parameters)** across English, Hindi, and Telugu using custom datasets and dynamic LR schedules.
   - Shipped an automated text-to-animated-video narration pipeline with chunking and seed-locked speaker consistency.
